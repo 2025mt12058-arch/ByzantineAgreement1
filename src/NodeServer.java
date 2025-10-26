@@ -27,7 +27,7 @@ public class NodeServer {
         // Start the server
         server.start();
 
-        System.out.println("Node  " + nodeId + " started on port " + port + " Byzantine=" + isByzantine);
+        System.out.println("Node " + nodeId + " started on port " + port + " Byzantine=" + isByzantine);
     }
 }
 
